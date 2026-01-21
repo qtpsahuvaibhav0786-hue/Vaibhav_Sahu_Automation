@@ -1,0 +1,30 @@
+# Selenium WebDriver for browser automation
+selenium==4.16.0
+
+# WebDriver Manager for automatic driver management
+webdriver-manager==4.0.1
+
+# Excel file handling
+openpyxl==3.1.2
+
+# Environment variable management
+python-dotenv==1.0.0
+
+# Colored logging
+colorlog==6.8.0
+
+# Testing framework (optional, for pytest integration)
+pytest==7.4.3
+pytest-html==4.1.1
+
+# Allure reporting (optional)
+allure-pytest==2.13.2
+
+# Image processing (for screenshot handling)
+Pillow==10.2.0
+
+# HTTP requests (for API testing if needed)
+requests==2.31.0
+
+# Data manipulation (for advanced data handling)
+pandas==2.1.4
